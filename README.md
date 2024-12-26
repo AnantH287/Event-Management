@@ -40,19 +40,25 @@ This project is built with a focus on usability, performance, and scalability, o
 
 > Here are some screenshots showcasing the key features of the project:
 
-![Event Booking Form](./screenshots/screenshot1.png)  
+![one](https://github.com/user-attachments/assets/c285598f-2df8-4589-ba17-edc7e8b547e2) 
 *Event Booking Form - Users can select and customize their event details.*
 
-![Booking Confirmation](./screenshots/screenshot2.png)  
+![two](https://github.com/user-attachments/assets/80d9ea02-780c-4fd5-95d5-5634e03a071d)
 *Booking Confirmation - Users receive a PDF download upon successful booking.*
 
-![User Dashboard](./screenshots/screenshot3.png)  
+![three](https://github.com/user-attachments/assets/ff568ec7-a9c2-41e9-890c-3ef4a2b8d53e)
 *User Dashboard - Users can view their past and current event bookings.*
 
-![Event Status Page](./screenshots/screenshot4.png)  
+![four](https://github.com/user-attachments/assets/ae0a7aab-569d-477c-8b24-07650ef18941)
 *Event Status Page - Displays the booking status for each event.*
 
-![Mobile Responsive View](./screenshots/screenshot5.png)  
+![six](https://github.com/user-attachments/assets/859327ee-f849-4a9f-81ae-ce0e611ec7a6)
+*Admin Dashboard - Admins can manage user data, event bookings, and more.*
+
+![seven](https://github.com/user-attachments/assets/09645db9-f800-4131-a36e-fe621af59011)
+*Admin Can Complete Event - Admins can mark events as completed, changing the status and notifying users.*
+
+![five](https://github.com/user-attachments/assets/5c3e8df4-b353-41cf-b874-458cdcfb67b9)
 *Mobile View - The app is fully responsive and optimized for mobile use.*
 
 ---
